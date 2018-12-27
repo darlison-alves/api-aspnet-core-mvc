@@ -1,0 +1,14 @@
+/home/darlison/projetos/Csharp/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/darlison/projetos/Csharp/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/darlison/projetos/Csharp/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/darlison/projetos/Csharp/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/darlison/projetos/Csharp/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/darlison/projetos/Csharp/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
